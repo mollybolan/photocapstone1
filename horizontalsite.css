@@ -1,0 +1,41 @@
+
+
+img {
+    margin: 50px;
+    max-width: 100%;
+}
+
+.pin {
+    margin-top: 100px;
+}
+
+.wrapper {
+    margin-top: 3px !important;
+}
+
+.pillow {
+    margin-top: 100px;
+}
+
+audio {
+    padding-left: 100px;
+}
+
+.shoe {
+    margin: 5px;
+}
+
+p {
+    padding-left: 10px;
+    font-family: 'Inconsolata', monospace;
+}
+
+.line1 {
+    padding-left: 18px;
+}
+
+.flowers {
+    padding: 0;
+}
+
+
